@@ -1,4 +1,4 @@
-# CH6CanliDers3b
+# CH6 - Canlı Ders 3b
 
 ## Karar Yapıları, Döngüler ve Metotlar
 
